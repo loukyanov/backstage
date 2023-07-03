@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog-unprocessed-entities
 
+## 0.1.1-next.1
+
+### Patch Changes
+
+- 267396f45bd0: Corrected the installation instructions.
+- 77b408fad872: install command points to correct package name
+- Updated dependencies
+  - @backstage/core-plugin-api@1.5.3-next.0
+  - @backstage/core-components@0.13.3-next.1
+
 ## 0.1.1-next.0
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @backstage/plugin-sonarqube
 
+## 0.7.1-next.1
+
+### Patch Changes
+
+- fcaf4cfc70ee: Made default config optional
+- Updated dependencies
+  - @backstage/core-plugin-api@1.5.3-next.0
+  - @backstage/core-components@0.13.3-next.1
+  - @backstage/plugin-catalog-react@1.7.1-next.1
+  - @backstage/plugin-sonarqube-react@0.1.7-next.1
+
 ## 0.7.1-next.0
 
 ### Patch Changes
